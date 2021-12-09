@@ -12,7 +12,7 @@ can still only be bought at traders.
 To craft solar cells you will need broken glass, as there is no
 other glass material beside the bullet-proof glass block. Since it
 felt a bit "wrong" to use the bullet-proof glass block I've added
-another recipe to create broken glass inside the forge. Additionaly
+another recipe to create broken glass inside the forge. Additionally
 you will need one acid bottle to make for more scarcity. The solar
 panel itself is crafted with regular materials (e.g. forged steel
 etc.) and steel- and robotics tools in order to increase scarcity.
