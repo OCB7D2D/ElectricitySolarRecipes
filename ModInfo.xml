@@ -5,6 +5,6 @@
 		<Description value="Recipes for solar panels and cells" />
 		<Website value="https://github.com/OCB7D2D/SolarRecipes" />
 		<Author value="ocbMaurice" />
-		<Version value="0.8.1" compat="A21"/>
+		<Version value="0.9.0" compat="A21"/>
 	</ModInfo>
 </xml>
