@@ -1,5 +1,5 @@
 <configs>
 	<append xpath="/items/item[@name='solarCell']">
-		<property name="UnlockedBy" value="perkAdvancedEngineering"/>
+		<property name="UnlockedBy" value="craftingElectrician"/>
 	</append>
 </configs>
