@@ -2,4 +2,5 @@
 	<append xpath="/items/item[@name='solarCell']">
 		<property name="UnlockedBy" value="craftingElectrician"/>
 	</append>
+	<append xpath="/items/item[@name='solarCell']/property[@name='Group']/@value">,Chemicals</append>
 </configs>
