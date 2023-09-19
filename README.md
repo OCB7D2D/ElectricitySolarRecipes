@@ -1,11 +1,12 @@
 # OCB Electricity Solar Recipes Mod - 7 Days to Die Addon
 
 This (XML-Only) Modlets adds two recipes to make solar panels
-and cells craftable within the workbench. Both items are locked
-behind the advanced engineering perk. For solar panels you'll
-need level four, while solar cells can be crafted after level 2.
-Quality will be depending on your perk level. Level 6 solar cells
-can still only be bought at traders.
+craftable within the workbench and cells craftable in the
+chemstation. Both items are locked behind the Electrician
+magazine tree. Solar panels unlock at level 100 alongside
+battery banks, while solar cells can be crafted after
+level 65 and quality scales the same as lead batteries.
+Level 6 solar cells can still only be bought at traders.
 
 ## Materials
 
